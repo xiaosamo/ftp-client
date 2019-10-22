@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * @author yuan
  * @date 2019/10/21
- * @description
+ * @description 文件信息
  */
 public class FileInfo {
 
