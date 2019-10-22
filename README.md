@@ -20,7 +20,8 @@
 
 
 ### 说明：
-* 项目使用springboot
+* 项目使用springboot，端口为8088
+* 客户端首页地址:http://localhost:8088
 * 页面使用thymeleaf模板
 * 使用了Okhttp请求服务器下载文件
 * fastjson解析json
