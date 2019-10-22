@@ -1,4 +1,8 @@
 # ftp客户端
+需要JDK8+，客户端端口为8088
+
+## 运行
+启动后，访问首页http://localhost:8088
 
 ### 首页：
 
@@ -20,7 +24,7 @@
 
 
 ### 说明：
-* 项目使用springboot，端口为8088
+* 项目使用springboot
 * 客户端首页地址:http://localhost:8088
 * 页面使用thymeleaf模板
 * 使用了Okhttp请求服务器下载文件
